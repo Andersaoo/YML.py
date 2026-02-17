@@ -1,0 +1,33 @@
+# Environments
+.env
+.env.local
+.env.*.local
+
+# Configuration files
+config.json
+config.local.json
+
+# Output directories and files
+results/
+gitlab_services_*.json
+services_*.txt
+services_*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
